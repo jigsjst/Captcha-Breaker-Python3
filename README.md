@@ -20,9 +20,13 @@ git clone https://github.com/jigsjst/Captcha-Breaker-Python3.git
 **Install the Requirements**
 
 - Installing OpenCV-Python
+
+
 _sudo apt-get install python3-opencv_
 
 - Installing Tesseract for OCR
+
+
 _sudo apt-get install tesseract-ocr_
 
 ### Running the Script
